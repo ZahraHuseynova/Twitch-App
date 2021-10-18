@@ -1,3 +1,22 @@
 {
-    "streams":[]
+  "streams": [
+    {
+      "title": "new stream",
+      "description": "description  of stream",
+      "userId": "109232611272471206484",
+      "id": 1
+    },
+    {
+      "title": "Lena kuka",
+      "description": "crew stream",
+      "userId": "109232611272471206484",
+      "id": 2
+    },
+    {
+      "title": "Standup stream",
+      "description": "Comic standup",
+      "userId": "109232611272471206484",
+      "id": 3
+    }
+  ]
 }
